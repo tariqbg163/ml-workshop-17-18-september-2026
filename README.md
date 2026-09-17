@@ -161,42 +161,8 @@ Agent ───────────→ Environment
 
 ---
 
-# 📂 Repository Structure
 
-```text
-ml-workshop-17-18-september-2026/
-│
-├── Day-1/
-│   │
-│   ├── 01_Introduction_to_ML/
-│   ├── 02_Data_Preprocessing/
-│   ├── 03_EDA/
-│   ├── 04_Linear_Regression/
-│   ├── 05_Logistic_Regression/
-│   └── 06_Decision_Tree/
-│
-├── Day-2/
-│   │
-│   ├── 01_Unsupervised_Learning/
-│   │   ├── K_Means_Clustering/
-│   │   └── Elbow_Method/
-│   │
-│   ├── 02_Reinforcement_Learning/
-│   │   ├── RL_Basics/
-│   │   └── Q_Learning/
-│   │
-│   └── 03_Certificate_and_Photo_Session/
-│
-├── datasets/
-│
-├── exercises/
-│
-├── requirements.txt
-│
-└── README.md
-```
 
----
 
 # 🎯 Learning Objectives
 
